@@ -1,4 +1,4 @@
-var hola = 'Hola Mundo';
+var hola = 'Hola Mundo 2';
 
 
 
