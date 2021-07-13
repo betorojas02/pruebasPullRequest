@@ -1,5 +1,4 @@
-var hola = 'Hola Mundo 2';
+var hola = 'Hola mundo 2';
 
 
-
-console.log(hola);
+console.log(hola)
